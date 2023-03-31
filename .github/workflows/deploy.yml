@@ -29,7 +29,4 @@ jobs:
         username: ${{ secrets.GIT_CPANEL_REACT_USER }}
         password: ${{ secrets.GIT_CPANEL_REACT_PWD }}
         protocol: ${{ secrets.GIT_CPANEL_REACT_PROTOCOL }}
-        # server-dir: ${{ secrets.GIT_CPANEL_REACT_DIR }}
-        # security: ${{ secrets.GIT_CPANEL_SECURITY }}
-        # dangerous-clean-slate: true
         local-dir: ./build/
