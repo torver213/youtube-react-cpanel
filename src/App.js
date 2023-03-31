@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>YOUTUBE TUTORIAL</h1>
+        <h1>AUTO DEPLOYMENT TO CPANEL USING GITHUB ACTIONS - YOUTUBE TUTORIAL</h1>
         <h4>GITHUB ACTIONS, REACT JS AND CPANEL AUTO DEPLOYMENT</h4>
         <p>This change will appear on the website immediately. Like seriously no</p>
         <p>
